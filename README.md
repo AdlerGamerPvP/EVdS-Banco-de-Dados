@@ -10,15 +10,15 @@ Criar um sistema de gerenciamento de banco de dados (SGBD) relacional, que conec
 ## Funcionamento
 
 No banco de dados temos 7 tabelas:
-1- Alunos: Contem as informações dos alunos, como o ID, nome e idade.
-2- Professores: contem o nome, ID e salário do professor.
-3- Salas: contêm o número da sala e quais matérias podem ser ensinadas nela.
-4- Materias: Contêm o ID da matéria e o tipo dela.
-5- Salas_Materias: Sincroniza as salas com as matérias que ela ensina sem poluir as respectivas tabelas.
-6- Turmas: Contem o nome da turma e quais alunos tem na mesma.
-7- Aulas: Contêm a informação de onde a aula acontecerá, turma, professor e horário.
-
-Todas elas se juntam para criar um sistema fácil e simples para adição e pesquisa.
+1- Alunos: Contem as informações dos alunos, como o ID, nome e idade.  
+2- Professores: contem o nome, ID e salário do professor.  
+3- Salas: contêm o número da sala e quais matérias podem ser ensinadas nela.  
+4- Materias: Contêm o ID da matéria e o tipo dela.  
+5- Salas_Materias: Sincroniza as salas com as matérias que ela ensina sem poluir as respectivas tabelas.  
+6- Turmas: Contem o nome da turma e quais alunos tem na mesma.  
+7- Aulas: Contêm a informação de onde a aula acontecerá, turma, professor e horário.  
+  
+Todas elas se juntam para criar um sistema fácil e simples para adição e pesquisa.  
 
 
 ## Tutorial de Hosting em um serviço de Cloud
