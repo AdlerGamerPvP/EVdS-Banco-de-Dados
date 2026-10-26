@@ -9,7 +9,7 @@ Criar um sistema de gerenciamento de banco de dados (SGBD) relacional, que conec
 
 ## Funcionamento
 
-No banco de dados temos 7 tabelas:
+No banco de dados temos 7 tabelas:  
 1- Alunos: Contem as informações dos alunos, como o ID, nome e idade.  
 2- Professores: contem o nome, ID e salário do professor.  
 3- Salas: contêm o número da sala e quais matérias podem ser ensinadas nela.  
