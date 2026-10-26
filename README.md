@@ -23,11 +23,11 @@ Todas elas se juntam para criar um sistema fácil e simples para adição e pesq
 
 ## Tutorial de Hosting em um serviço de Cloud
 
-1- Acesse o painel do seu serviço de nuvem (Aiven ou Azure Database, neste caso).
-2. Tenha uma instância do banco de dados MySQL ou PostgreSQL.
-3. Configure as conexões (Host, Porta, Usuário e Senha).
-4. Utilize uma Workbench como DBeaver, pgAdmin ou MySQL Workbench para conectar-se ao servidor na nuvem.
-5. Execute os scripts relacionados ao seu banco de dados
+1- Acesse o painel do seu serviço de nuvem (Aiven ou Azure Database, neste caso).  
+2. Tenha uma instância do banco de dados MySQL ou PostgreSQL.  
+3. Configure as conexões (Host, Porta, Usuário e Senha).  
+4. Utilize uma Workbench como DBeaver, pgAdmin ou MySQL Workbench para conectar-se ao servidor na nuvem.  
+5. Execute os scripts relacionados ao seu banco de dados.  
 
 
 ## Como fazer um dump do banco
